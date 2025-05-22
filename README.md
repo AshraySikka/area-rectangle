@@ -1,4 +1,4 @@
-# area-rectangle
+# Area-Rectangle
 
 This Python script calculates the **area of a rectangle** using the length and width values provided by the user.
 
